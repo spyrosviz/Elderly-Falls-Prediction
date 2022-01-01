@@ -1,4 +1,4 @@
-# Elderly-Fallers-Prediction
+# Elderly-Falls-Prediction
 
 ## Aim of project
 This project aims to make a prediction model that will classify healthy elder people and fallers
